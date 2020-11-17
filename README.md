@@ -13,6 +13,7 @@ Il y a une très bonne vidéo faite par un YouTuber/streamer Twitch Belge ici: [
   Voici un screenshot d'un test que j'ai fais chez moi, on peut voir que j'ai presque 14Mbps en upload ce qui devrait largement suffire. J'ai fait ce test en WiFi, il est probable que si j'avais branché un câble, j'aurais pu avoir un meilleur score.
   
   <img title="" src=".\Picture\2020-11-11-firefox - score.png" alt="" width="747">
+  
   Malheureusement, ma connexion n'est pas toujours aussi bonne, il arrive qu'elle ai ce qu'on appel des "drop" de temps en temps, elle devient beaucoup moins bonne, voir même ce coupe pendant un certain temps. Si vous savez que vous avez une connexion comme ça, ce serait bien d'avoir une potentiel alternative (quelqu'un qui pourrait reprendre le stream ou trouver quelqu'un d'autre pour streamer par exemple).
   
   Mais l'overlay que l'on va vous passer est basé sur du 720p, vous pourrez tout de même l'utilisez, il faudra juste "downscale" votre image
@@ -147,6 +148,7 @@ Après avoir cliqué sur Start, il va faire des tests sur votre ordinateur pour 
 
 Je vous conseils de cliquer sur le bouton des statistiques, ce qui va ouvrir la fenêtre suivante:
 <img title="" src=".\Picture\2020-11-16 00_49_15-Performance Metrics.png" alt="" width="550">
+
 Sur laquelle vous pourrez cliquer sur les stats pour les ajouter en bas dans streamlab et pouvoir regarder d'un coup d'œil à quel point votre ordinateur et votre connexions souffres et s'ils s'en sortent.
 <img title="" src=".\Picture\2020-11-16 00_51_50-Streamlabs OBS.png" alt="" width="747">
 
